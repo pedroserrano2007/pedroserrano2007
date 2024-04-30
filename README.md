@@ -1,4 +1,4 @@
-### olá eu sou o pedro serrano
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=900&color=00F5F7&background=FFFFFF00&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=435&lines=Ol%C3%A1+sou+o+Pedro+Serrano)](https://git.io/typing-svg)
 
 <!--
 **pedroserrano2007/pedroserrano2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
